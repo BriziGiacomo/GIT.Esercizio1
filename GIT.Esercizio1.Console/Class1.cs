@@ -1,4 +1,4 @@
-﻿namespace GIT.Esercizio1.Console
+﻿git snamespace GIT.Esercizio1.Console
 {
     public class Class1
     {
